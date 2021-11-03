@@ -28,22 +28,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HassnaaAyman&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&langs_count=7" /> 
 </a>
 <a href="https://github.com/HassnaaAyman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassnaaAyman&hide=blade" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassnaaAyman&hide=java,c#" />
 </a>
 
 
 
-<!-- [![Working Streaks](https://github-readme-streak-stats.herokuapp.com/?user=HassnaaAyman)](https://github.com/HassnaaAyman) -->
-
-
-<!-- [![hassnaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=secmohammed&v=2&langs_count=4&custom_title=Hassnaa%27s%20week%20stats)](https://github.com/HassnaaAyman) -->
-
-
-<img class="all-time-badge tip" title="Total time coded since May 3 2021" src="https://wakatime.com/badge/user/e9c66550-e3c4-4363-84de-c3d2e80eb2c6.svg" data-original-title="Total time coded since May 3 2021">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassnaaAyman&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br />
 <br />
-
 
 
 ![Profile views](https://gpvc.arturio.dev/HassnaaAyman)
@@ -63,8 +56,8 @@
 <div>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/NextJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 </div>
 
